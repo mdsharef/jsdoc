@@ -1,0 +1,15 @@
+{
+  "name": "js-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "Md Muaz Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}

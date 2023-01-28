@@ -1,0 +1,3 @@
+# jsDoc, Refactor the tool and understand its cool features and functionalities.
+
+In this project, I have practiced jsDoc and have discovered some outstanding features and functionalities. Really this is a neccessary tool for a javascript programmer. This will auto generate a documentation of your project or application based on the comments. This also generate an html file where an elaborate dipict of your project is drawn. From here you can find out easily any kind of error in your application. This html file generated through jsDoc will help the users to better understand your application
